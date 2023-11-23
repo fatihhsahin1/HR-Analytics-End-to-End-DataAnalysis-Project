@@ -22,5 +22,13 @@ This repository contains a complete HR analytics project focused on absenteeism 
 - `Optimized_Query.sql`: SQL queries optimized for efficient data handling.
 
 
+## Interactive Power BI Report
+
+For a more interactive experience, check out the Power BI report [here](https://mavenanalytics.io/project/10319). This report allows you to dive deeper into the data with dynamic visualizations.
+
+
+
+
+
 ### Acknowledgements
 Special thanks to the Absent Data YouTube channel for their guidance and insights throughout the development of this project. Their tutorials and advice were invaluable in completing this analysis.
